@@ -1,0 +1,44 @@
+@media handheld and (min-width: 360px) and (max-width: 640px){
+    
+#p1{
+background-color: blue;
+}
+
+#p2{
+background-color: white;
+}
+
+#p3{
+background-color: red;
+}
+
+img{
+width: 300px;
+margin-left: auto;
+margin-right: auto;
+}
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
