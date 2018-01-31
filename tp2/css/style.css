@@ -11,7 +11,9 @@ background-color: blue;
 }
 
 #p2{
-background-color: white;
+background-image: url("../img/bg.jpg");
+background-size: cover;
+color: white;
 }
 
 #p3{
@@ -42,7 +44,7 @@ and (max-device-width : 640px){
     }
     
     table{
-    width: 100%
+    width: 100%;
     }
     
     td,th{
@@ -52,9 +54,7 @@ and (max-device-width : 640px){
     
     
     
-    
-    
-    
+
 @media(-webkit-min-device-pixel-ratio:2 ){
 
 }
