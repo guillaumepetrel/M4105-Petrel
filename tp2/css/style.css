@@ -1,7 +1,14 @@
 @media only screen 
 and (min-device-width : 320px) 
 and (max-device-width : 640px){
-    
+ 
+html{
+    font-size: 100%;
+}
+
+h1{
+    font-size:8vw; 
+}
 #p1{
 background-color: blue;
 }
@@ -22,7 +29,9 @@ margin-right: auto;
 
 }
     
-    
+@media(-webkit-min-device-pixel-ratio:2 ){
+
+}
 
     
     
